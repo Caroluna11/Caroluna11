@@ -53,7 +53,7 @@ const sorceress = {
 
 ### 🪄 ✧ Grimorio de Tecnologías // Tech Stack ✧
 
-Aquí están las runas y herramientas con las que construyo mis artefactos digitales, curadas con [markdown-badges](https://github.com/ileriayo/markdown-badges):
+Aquí están las runas y herramientas con las que construyo mis artefactos digitales:
 
 #### ⚡ Lenguajes de Poder
 <p align="left">
@@ -136,16 +136,12 @@ Aquí están las runas y herramientas con las que construyo mis artefactos digit
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/TU-USUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/witch-soul-20b15a441/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  &nbsp;
-  <a href="https://caroluna.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-7B2CBF?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  <a href="https://discordapp.com/users/aonix6190" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-aonix6190-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
 </div>
 
